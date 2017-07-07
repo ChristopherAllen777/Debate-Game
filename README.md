@@ -1,2 +1,2 @@
-# Debate-Game
-Debate Memory Match Game
+# uhurumemorygame
+Positive Uhuru Memory Match Game
