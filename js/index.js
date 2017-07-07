@@ -152,7 +152,7 @@
 		},
 		// Uhuru 3
 		{
-			name: "Connected an Additional 2.1 Million People In Rural Areas to Safe Water",
+			name: "Connected an Additional 2.1 Million People to Safe Water",
 			img: "assets/uhuru3.png",
 			id: 3
 		},
